@@ -1,0 +1,115 @@
+{
+  "pays": "Roumanie",
+  "drapeau": "🇷🇴",
+  "symbole": "🏰",
+  "titre": "Escapade Relaxante à Sibiu, la Perle de Transylvanie",
+  "budget_total": "950 €",
+  "duree": "4 jours",
+  "temps_vol": "4h35 (avec escale depuis Paris, france)",
+  "escale": "1",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée en Transylvanie et Premiers Pas à Sibiu",
+      "legende": "Après votre vol depuis Paris, installez-vous confortablement et laissez-vous charmer par l'atmosphère médiévale de Sibiu. Une balade douce dans la Grande Place sera parfaite pour débuter ce voyage en toute sérénité.",
+      "lieu": "Sibiu",
+      "activites": [
+        "🛬 <strong>Arrivée à l'aéroport de Sibiu</strong>: Atterrissage et récupération des bagages, prévoyez environ 30-45 minutes pour les formalités.",
+        "🚕 <strong>Transfert et installation à l'hôtel</strong>: Rejoignez votre hébergement pour déposer vos affaires et vous rafraîchir. Le centre-ville est à environ 15-20 minutes en taxi.",
+        "🚶‍♂️ <strong>Balade relaxante sur la Grande Place (Piața Mare)</strong>: Découvrez le cœur historique de Sibiu, admirez l'architecture et imprégnez-vous de l'ambiance paisible de la ville."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "Monnaie locale",
+          "texte": "La monnaie en Roumanie est le Leu Roumain (RON). Les cartes bancaires sont largement acceptées, mais il est utile d'avoir un peu de liquide pour les petits commerces."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🏛️",
+      "titre": "Immersion Culturelle et Détente au Cœur de Sibiu",
+      "legende": "Plongez dans l'histoire de Sibiu avec une visite culturelle apaisante, puis offrez-vous un moment de quiétude dans un café local. La journée se terminera par une douce exploration des ruelles et des sites emblématiques.",
+      "lieu": "Sibiu",
+      "activites": [
+        "🖼️ <strong>Visite du Musée National Brukenthal</strong>: Explorez les collections d'art et d'histoire dans ce magnifique palais baroque, à votre rythme. Comptez 2-3 heures pour une visite complète.",
+        "☕ <strong>Pause café sur la Petite Place (Piața Mică)</strong>: Profitez de l'ambiance charmante et des terrasses pour un moment de détente bien mérité.",
+        "🚶‍♀️ <strong>Découverte du Pont des Mensonges et des remparts</strong>: Flânez autour de ces sites emblématiques, parfaits pour une promenade légère et quelques photos."
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "🍽️",
+          "titre": "Saveurs locales",
+          "texte": "Ne manquez pas de goûter la \"ciorbă de burtă\" (soupe de tripes) ou les \"mici\" (petites saucisses grillées), des spécialités roumaines à découvrir."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🌳",
+      "titre": "Évasion Naturelle et Traditions Transylvaniennes",
+      "legende": "Éloignez-vous de l'agitation urbaine pour une journée dédiée à la nature et à la découverte des traditions roumaines. Le musée ASTRA offre une immersion paisible dans le passé, idéale pour une journée relaxante.",
+      "lieu": "Sibiu et ses environs",
+      "activites": [
+        "🚶‍♂️ <strong>Visite du Musée en plein air ASTRA</strong>: Promenez-vous tranquillement parmi les maisons traditionnelles, les moulins et les ateliers artisanaux dans un cadre verdoyant. Prévoyez une demi-journée.",
+        "🏞️ <strong>Détente au Parc Sub Arini</strong>: Profitez d'une balade apaisante dans l'un des plus anciens parcs naturels de Roumanie, idéal pour se ressourcer après la visite du musée.",
+        "🍽️ <strong>Dîner dans un restaurant traditionnel roumain</strong>: Savourez les saveurs locales dans une ambiance chaleureuse, comme au restaurant Crama Sibiul Vechi."
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "👟",
+          "titre": "Chaussures confortables",
+          "texte": "Le Musée ASTRA est vaste et se visite à pied. Prévoyez des chaussures confortables pour profiter pleinement de cette immersion."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "🛫",
+      "titre": "Derniers Instants et Départ de Sibiu",
+      "legende": "Profitez de vos dernières heures à Sibiu pour quelques emplettes ou une dernière flânerie dans les rues pavées, avant de prendre le chemin de l'aéroport, la tête pleine de souvenirs de cette charmante ville transylvanienne.",
+      "lieu": "Sibiu",
+      "activites": [
+        "🛍️ <strong>Achats de souvenirs locaux</strong>: Trouvez des trésors artisanaux, des produits locaux ou des objets d'art dans les petites boutiques du centre-ville.",
+        "☕ <strong>Dernier café ou petit-déjeuner typique</strong>: Savourez un dernier moment de quiétude dans un des cafés de la Piața Mică.",
+        "🛫 <strong>Transfert à l'aéroport de Sibiu et vol retour</strong>: Fin de votre escapade transylvanienne. Prévoyez d'arriver à l'aéroport au moins 2 heures avant votre vol."
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "⏰",
+          "titre": "Heure de départ",
+          "texte": "Vérifiez l'heure de votre vol et planifiez votre transfert vers l'aéroport en conséquence pour éviter tout stress inutile."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "A partir de 409 €/pers", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "Environ 50 €/pers (transferts aéroport, taxis locaux)", "symbole": "🚕" },
+    { "titre": "Budget repas:", "legende": "Environ 180 €/pers (45 €/jour pour 3 repas)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "Environ 250 €/pers (3 nuits en hôtel 3* sur base double)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "Environ 60 €/pers (musées, entrées)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [
+    { "titre": "Mai à Juin", "symbole": "🌸" },
+    { "titre": "Septembre à Octobre", "symbole": "🍂" }
+  ],
+  "infos_pratiques": [
+    { "titre": "Les températures à Sibiu varient entre 15 et 25°C au printemps/automne. Prévoir des couches de vêtements et un imperméable léger.", "symbole": "☀️" },
+    { "titre": "La monnaie est le Leu Roumain (RON). Les cartes de crédit sont largement acceptées. Prévoir un peu de liquide pour les petits marchés ou pourboires.", "symbole": "💳" },
+    { "titre": "La langue officielle est le roumain. L'anglais est généralement parlé dans les zones touristiques et par les jeunes.", "symbole": "🗣️" },
+    { "titre": "Le fuseau horaire est EET (UTC+2), soit 1 heure de plus qu'à Paris.", "symbole": "⏰" }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol Paris-Sibiu", "url": "https://www.kayak.fr/flights/CDG-SBZ/2025-05-15/2025-05-18", "symbole": "🛬" },
+    { "legende": "Infos officielles et inspirations", "titre": "Tourisme Sibiu", "url": "https://www.sibiucity.ro/en/", "symbole": "📘" },
+    { "legende": "Météo", "titre": "Météo Sibiu", "url": "https://www.accuweather.com/fr/ro/sibiu/287376/weather-forecast/287376", "symbole": "🌤️" },
+    { "legende": "Transports locaux", "titre": "Site des transports en commun Sibiu", "url": "https://tursib.ro/en/", "symbole": "🚌" }
+  ]
+}
